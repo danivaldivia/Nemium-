@@ -1,0 +1,12 @@
+.menu-container ul {
+    padding: 0;
+}
+
+@media screen and (min-width: 1024px) {
+    .menu-container {
+        width: 280px;
+        height: 240px;
+        margin-bottom: 104px;
+
+    }
+}

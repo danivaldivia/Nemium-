@@ -1,0 +1,5 @@
+.slider-bullet-list {
+    display: flex;
+    justify-content: center;
+    margin-top: 16px;
+}

@@ -1,0 +1,28 @@
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+
+.menu-title {
+    font-family: var(--roboto);
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: var(--white);
+}
+
+.summary-title {
+    font-size: 14px;
+    line-height: 24px;
+    color: var(--white);
+}
+
+@media screen and (min-width: 1024px) {
+    .sidebar {
+        margin-right: 24px;
+        width: 306px;
+    }
+
+}

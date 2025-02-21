@@ -1,0 +1,11 @@
+.slider-bullet {
+    width: 16px;
+    height: 16px;
+    background-color: #42424233;
+    margin-right: 8px;
+    border-radius: 50%;
+}
+
+.slider-bullet:hover {
+    background-color: var(--white5);
+}

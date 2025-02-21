@@ -1,0 +1,39 @@
+blockquote {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    background-color: var(--coral10);
+    color: #232946;
+    width: 328px;
+    height: auto;
+    border-radius: 8px;
+    padding: 16px;
+}
+
+blockquote p {
+    font-size: 16px;
+    line-height: 32px;
+    margin: 0;
+    margin-bottom: 16px;
+}
+
+.span--name::before {
+    content: '-';
+}
+
+@media screen and (min-width: 1024px) {
+    blockquote {
+        width: auto;
+        padding: 24px;
+    }
+
+    blockquote p {
+        font-size: 24px;
+    }
+
+    .span--name {
+        font-size: 24px;
+    }
+
+
+}

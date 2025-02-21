@@ -1,0 +1,18 @@
+.social-media {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.social-media-img {
+    display: flex;
+    justify-content: center;
+    margin-top: 16px;
+}
+
+.social-media-img img {
+    margin-inline-end: 16px;
+    width: 24px;
+    height: 24px;
+}

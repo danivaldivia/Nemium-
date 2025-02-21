@@ -1,0 +1,40 @@
+.section-content {
+    /* outline: 8px solid aqua; */
+    counter-reset: titleList;
+    width: 100%;
+}
+
+.section-content img {
+    margin-top: 24px;
+
+}
+
+.section-content h2 {
+    margin-top: 24px;
+    margin-bottom: 16px;
+}
+
+.image-subtitle {
+    /* background-color: pink; */
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    width: 100%;
+
+}
+
+
+
+@media screen and (min-width: 1024px) {
+    h1 {
+        margin-top: 64px;
+        font-size: 64px;
+        font-weight: 700;
+    }
+
+    h2 {
+        font-size: 40px;
+        font-weight: 700;
+    }
+
+}

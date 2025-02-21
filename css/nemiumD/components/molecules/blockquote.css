@@ -1,0 +1,47 @@
+blockquote {
+    border-left: 4px solid var(--blue10);
+    color: var(--black);
+    margin: 40px 16px;
+    display: flex;
+    flex-flow: wrap;
+    padding-left: 16px;
+}
+
+blockquote p {
+    width: 308px;
+    text-align: start;
+    line-height: 32px;
+    margin: 0;
+}
+
+.span--name::before {
+    content: "-";
+
+}
+
+.span--name {
+    line-height: 32px;
+    display: inline-block;
+
+}
+
+@media screen and (min-width: 1024px) {
+    blockquote {
+        width: 633px;
+        flex-direction: column;
+    }
+
+    blockquote p {
+        width: 100%;
+        font-size: 24px;
+        margin-bottom: 16px;
+    }
+
+    .span--name {
+        width: 216px;
+        text-align: start;
+        font-size: 24px;
+
+    }
+
+}

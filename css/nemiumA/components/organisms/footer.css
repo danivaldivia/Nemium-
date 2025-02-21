@@ -1,0 +1,10 @@
+.footer {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    flex: 1;
+    height: 174px;
+    background-color: #212429;
+    justify-content: center;
+    align-items: center;
+}

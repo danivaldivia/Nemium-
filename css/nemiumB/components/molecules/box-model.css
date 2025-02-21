@@ -1,0 +1,25 @@
+.box-model {
+    /* background-color: red; */
+    height: auto;
+    margin-top: 40px;
+}
+
+.box-model_ol {
+    line-height: 24px;
+    padding-left: 16px;
+}
+
+.box-model_ul {
+    padding-left: 16px;
+}
+
+
+.box-model_ul li::marker {
+    color: var(--white);
+}
+
+
+.box-model_ul li {
+    line-height: 24px;
+    margin-bottom: 16px;
+}

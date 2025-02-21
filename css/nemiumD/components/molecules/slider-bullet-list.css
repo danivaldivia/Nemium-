@@ -1,0 +1,6 @@
+.slider-bullet-list {
+    /* background-color: red; */
+    display: flex;
+    justify-content: center;
+    margin-top: 16px;
+}

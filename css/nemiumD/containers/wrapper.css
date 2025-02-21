@@ -1,0 +1,16 @@
+.wrapper {
+    display: flex;
+    margin: 16px;
+    flex-direction: column;
+    flex-flow: wrap;
+    justify-content: center;
+    /* outline: 10px solid greenyellow; */
+}
+
+@media screen and (min-width: 1024px) {
+    .wrapper {
+        width: 100%;
+        margin: auto;
+    }
+
+}

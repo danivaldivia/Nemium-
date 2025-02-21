@@ -1,0 +1,27 @@
+.summary-container {
+    /* background-color: blueviolet; */
+    line-height: 24px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.summary-container li {
+    color: var(--gray10);
+}
+
+.summary-container summary {
+    color: var(--white);
+    font-family: var(--nunito);
+    font-weight: 700;
+}
+
+
+
+@media screen and (min-width: 1024px) {
+    .summary-container {
+        position: sticky;
+        top: 0;
+        margin-bottom: 1550px;
+    }
+}

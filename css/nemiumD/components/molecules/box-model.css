@@ -1,0 +1,45 @@
+.box-model {
+    margin-top: 40px;
+}
+
+.box-model h2 {
+    font-weight: 400;
+    font-size: 24px;
+    color: var(--black);
+}
+
+.box-model h3 {
+    font-weight: 400;
+    font-size: 22px;
+    color: var(--black);
+    margin-top: 40px;
+    margin-bottom: 16px;
+}
+
+.box-model_ol {
+    padding-left: 16px;
+    line-height: 24px;
+}
+
+.box-model_ul {
+    padding-left: 16px;
+}
+
+.box-model_ul li {
+    margin-block-end: 16px;
+}
+
+.box-model_ul li::marker {
+    color: var(--blue10);
+}
+
+@media screen and (min-width: 1024px) {
+    .box-model h2 {
+        font-size: 32px;
+    }
+
+    .box-model h3 {
+        font-size: 24px;
+    }
+
+}

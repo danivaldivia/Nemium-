@@ -1,0 +1,12 @@
+.brand {
+    font-family: var(--roboto);
+    font-weight: 400;
+    color: #251F24;
+    font-size: 24px;
+    margin-bottom: 16px;
+    /* margin: 48px 42px 98px 43px ; */
+}
+
+.brand::before {
+    content: "© ";
+}

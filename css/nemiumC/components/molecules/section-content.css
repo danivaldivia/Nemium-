@@ -1,0 +1,46 @@
+.section-content {
+    /* background-color: aqua; */
+    width: 100%;
+    counter-reset: titleList;
+}
+
+.section-content img {
+    margin-top: 40px;
+}
+
+
+.heading-setup {
+    visibility: collapse;
+}
+
+
+.image-subtitle {
+    /* background-color: pink; */
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    width: 100%;
+
+}
+
+.image-icon {
+    width: 48px;
+    height: 48px;
+}
+
+
+
+@media screen and (min-width: 1024px) {
+    .heading-setup {
+        visibility: visible;
+
+    }
+
+    h2 {
+        font-size: 32px;
+        font-weight: 400;
+        color: var(--gray30);
+    }
+
+
+}

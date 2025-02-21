@@ -1,0 +1,14 @@
+.menu-link {
+    width: 100%;
+    color: #B8C1EC;
+    text-decoration: none;
+    font-family: var(--roboto);
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 500;
+}
+
+
+.menu-link:hover {
+    color: var(--white);
+}

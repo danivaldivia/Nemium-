@@ -1,0 +1,9 @@
+.summary-link {
+    /* background-color: yellow; */
+    color: (var(--gray10));
+    text-decoration: none;
+}
+
+.summary-link:hover {
+    color: var(--gray30);
+}

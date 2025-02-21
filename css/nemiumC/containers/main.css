@@ -1,0 +1,19 @@
+.main {
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    color: var(--gray30);
+    margin: 40px 16px 40px 16px;
+    /* background-color: red; */
+}
+
+@media screen and (min-width: 1024px) {
+    .main {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        margin: 80px 196px 80px 200px;
+    }
+
+}

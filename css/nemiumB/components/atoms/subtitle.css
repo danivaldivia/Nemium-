@@ -1,0 +1,28 @@
+.setup_subtitle {
+    counter-increment: titleList;
+    display: inline-block;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    /* background-color: yellow; */
+}
+
+.setup_subtitle::before {
+    content: counter(titleList, decimal) '. ';
+
+}
+
+.concept_subtitle {
+    margin-top: 24px;
+    margin-bottom: 16px;
+}
+
+@media screen and (min-width: 1024px) {
+
+    .setup_subtitle {
+        font-weight: 600;
+    }
+
+    .concept_subtitle {
+        font-weight: 600;
+    }
+}

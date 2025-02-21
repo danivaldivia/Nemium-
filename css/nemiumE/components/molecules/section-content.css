@@ -1,0 +1,16 @@
+.section-content {
+    width: 100%;
+    counter-reset: titleList;
+}
+
+.image-subtitle {
+    width: 100%;
+}
+
+@media screen and (min-width: 1024px) {
+    .image-icon {
+        width: 80px;
+        height: 80px;
+    }
+
+}

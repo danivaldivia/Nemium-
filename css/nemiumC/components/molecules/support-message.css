@@ -1,0 +1,11 @@
+.support-message {
+    visibility: collapse;
+}
+
+@media screen and (min-width: 1024px) {
+    .support-message {
+        visibility: visible;
+        color: var(--gray15);
+    }
+
+}

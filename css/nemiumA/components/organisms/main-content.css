@@ -1,0 +1,12 @@
+.main-content {
+    background-color: var(--white);
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: 0px 16px;
+
+}
+
+/* @media screen and (min-width: 1920px) {
+  
+}  */

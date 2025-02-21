@@ -1,0 +1,13 @@
+.subscription {
+    margin-bottom: 40px;
+}
+
+.subscription h2 {
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}

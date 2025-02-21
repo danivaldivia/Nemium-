@@ -1,0 +1,7 @@
+.social-media {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 48px 42px 58px 43px;
+}

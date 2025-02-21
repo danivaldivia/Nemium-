@@ -1,0 +1,24 @@
+.section-content img {
+    margin-top: 24px;
+
+}
+
+.section-content h2 {
+    margin-top: 24px;
+    margin-bottom: 16px;
+}
+
+.section-content {
+    /* outline: 8px solid aqua; */
+    counter-reset: titleList;
+    width: 100%;
+}
+
+.image-subtitle {
+    /* background-color: pink; */
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    width: 100%;
+
+}

@@ -1,0 +1,18 @@
+.summary-container {
+    /* background-color: blueviolet; */
+    line-height: 24px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.summary-container nav {
+    border-left: 4px solid #C4C4C4;
+}
+
+.summary-container summary {
+    color: var(--gray10);
+    font-family: "Roboto", serif;
+    font-weight: 700;
+    margin-left: 16px;
+}

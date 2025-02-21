@@ -1,0 +1,12 @@
+pre {
+    font-family: var(--rubik);
+    font-size: 16px;
+    line-height: 24px;
+    white-space: pre-line;
+    padding: 40px;
+    border-radius: 8px;
+    text-align: start;
+    border: 8px solid var(--blue10);
+    box-shadow: -10px 10px 0px 0px #ABAAF6;
+    margin-bottom: 40px;
+}

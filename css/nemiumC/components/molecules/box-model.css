@@ -1,0 +1,32 @@
+.box-model h2 {
+    margin-top: 40px;
+    margin-bottom: 24px;
+    font-size: 32px;
+    color: var(--gray30);
+    font-weight: 400;
+}
+
+.box-model h3 {
+    font-size: 24px;
+}
+
+.box-model_ol {
+    /* background-color: red; */
+    padding-left: 16px;
+    margin-bottom: 24px;
+}
+
+.box-model_ul {
+    padding-left: 16px;
+}
+
+.box-model_ul li {
+    margin-block-end: 16px;
+}
+
+@media screen and (min-width: 1024px) {
+    .box-model {
+        margin-top: 80px;
+    }
+
+}

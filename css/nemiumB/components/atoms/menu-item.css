@@ -1,0 +1,23 @@
+.menu-item {
+    background-color: var(--gray30);
+    padding: 8px;
+    border-radius: 4px;
+    font-size: 14px;
+    line-height: 24px;
+    width: 328px;
+    height: 24px;
+    list-style-type: none;
+}
+
+
+.menu-item:hover {
+    background-color: var(--black);
+}
+
+
+
+@media screen and (min-width: 1024px) {
+    .menu-item {
+        width: 188px;
+    }
+}

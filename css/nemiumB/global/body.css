@@ -1,0 +1,6 @@
+body {
+    margin: 0;
+    background-color: var(--bodyB);
+    font-family: var(--nunito);
+    color: #A5A3A5;
+}

@@ -1,0 +1,16 @@
+.hero {
+    display: flex;
+    width: 100%;
+    height: 96px;
+    background-image: linear-gradient(to right, #314755, #26A0DA);
+    ;
+    /* margin: 0;  */
+}
+
+
+@media screen and (min-width: 1024px) {
+    .hero {
+        height: 350px;
+    }
+
+}

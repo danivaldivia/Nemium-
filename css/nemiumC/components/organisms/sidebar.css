@@ -1,0 +1,19 @@
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+}
+
+summary::marker {
+    content: "";
+}
+
+.title {
+    font-weight: 400;
+    color: var(--gray10);
+    line-height: 24px;
+    font-size: 14px;
+}

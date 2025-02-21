@@ -1,0 +1,28 @@
+.subscription {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.subscription h2 {
+    font-weight: 400;
+    font-size: 24px;
+    color: var(--black);
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+@media screen and (min-width: 1024px) {
+    .form {
+        flex-direction: row;
+        flex-wrap: nowrap;
+    }
+
+}

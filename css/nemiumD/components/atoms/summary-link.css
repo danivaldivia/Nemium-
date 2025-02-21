@@ -1,0 +1,19 @@
+.summary-link {
+    width: 100%;
+    color: var(--black);
+    font-family: var(--rubik);
+    text-decoration: none;
+    line-height: 24px;
+    font-size: 14px;
+    display: inline-block;
+    counter-increment: summarylinks;
+}
+
+.summary-link:hover {
+    color: var(--white);
+}
+
+.summary-link::before {
+    content: counter(summarylinks, decimal) '. ';
+
+}

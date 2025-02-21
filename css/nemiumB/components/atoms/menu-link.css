@@ -1,0 +1,11 @@
+.menu-link {
+    color: var(--gray5);
+    font-weight: 500;
+    text-decoration: none;
+    display: inline-block;
+    width: 328px;
+}
+
+.menu-link:hover {
+    color: var(--white);
+}

@@ -1,0 +1,36 @@
+.setup-summary {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: var(--black);
+}
+
+.conceptos-summary {
+    font-weight: 700;
+    color: var(--black)80;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.summary-container ol {
+    color: var(--black);
+    padding-left: 16px;
+}
+
+.summary-container details {
+    counter-reset: summarylinks;
+}
+
+
+@media screen and (min-width: 1024px) {
+    .summary-container {
+        width: 208px;
+        position: sticky;
+        top: 0;
+        margin-bottom: 1550px;
+    }
+
+    .summary-container ol {
+        padding-left: 0px;
+    }
+}

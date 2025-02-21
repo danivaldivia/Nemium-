@@ -1,0 +1,10 @@
+.support-message {
+    font-family: var(--nunito);
+    font-weight: 400;
+    color: var(--white);
+    margin-bottom: 40px;
+}
+
+.support-message a {
+    color: #0867c0;
+}

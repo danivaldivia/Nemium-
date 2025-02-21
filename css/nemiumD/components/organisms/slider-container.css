@@ -1,0 +1,7 @@
+.slider-container {
+    display: block;
+    block-size: 100%;
+    overflow: hidden;
+    scroll-behavior: smooth;
+    white-space: nowrap;
+}

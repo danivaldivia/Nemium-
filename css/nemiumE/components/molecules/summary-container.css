@@ -1,0 +1,22 @@
+.summary-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.summary-container summary {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    /* display: inline-block; */
+}
+
+.summary-container li {
+    margin-bottom: 16px;
+}
+
+@media screen and (min-width: 1024px) {
+    .summary-container summary {
+        color: var(--white5);
+    }
+
+}
