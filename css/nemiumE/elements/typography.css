@@ -1,9 +1,10 @@
 hr {
+    border: 10px solid red;
     display: inline-block;
-    width: 100%;
+    width: auto;
     border: 1px solid #61616133;
-    margin-top: 40px;
-    margin-bottom: 40px;
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
 }
 
 .horizontal-line_2 {
@@ -12,32 +13,32 @@ hr {
 
 h1 {
     font-weight: 700;
-    font-size: 32px;
+    font-size: 2rem;
     color: var(--white);
 }
 
 P {
     font-weight: 400;
     font-size: 17px;
-    line-height: 24px;
+    line-height: 1.5rem;
 }
 
 h2 {
     font-weight: 700;
-    font-size: 40px;
+    font-size: 2.5rem;
     color: var(--white5);
 }
 
 h3 {
     color: var(--white5);
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 600;
 }
 
 .paragraph--bold {
     font-weight: 700;
     font-size: 17px;
-    line-height: 24px;
+    line-height: 1.5rem;
     color: #B8C1EC;
 }
 

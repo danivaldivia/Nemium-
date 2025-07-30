@@ -1,0 +1,7 @@
+.sidebar {
+    background-color: bisque;
+    display: flex;
+    flex-direction: column;
+    width: auto;
+
+}

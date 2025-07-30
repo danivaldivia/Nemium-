@@ -6,15 +6,15 @@ blockquote {
     color: #232946;
     width: 328px;
     height: auto;
-    border-radius: 8px;
-    padding: 16px;
+    border-radius: 0.5rem;
+    padding: 1rem;
 }
 
 blockquote p {
-    font-size: 16px;
-    line-height: 32px;
+    font-size: 1rem;
+    line-height: 2rem;
     margin: 0;
-    margin-bottom: 16px;
+    margin-bottom: 1rem;
 }
 
 .span--name::before {

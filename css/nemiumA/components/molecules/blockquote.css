@@ -1,9 +1,9 @@
 blockquote {
-    margin: 40px 16px 0px 16px;
-    padding-left: 16px;
-    font-size: 16px;
-    line-height: 32px;
-    border-left: 4px solid var(--gray30);
+    margin: 2.5rem 1rem 0rem 1rem;
+    padding-left: 1rem;
+    font-size: 1rem;
+    line-height: 2rem;
+    border-left: 0.25rem solid var(--gray30);
 }
 
 .span--name::before {
@@ -11,6 +11,6 @@ blockquote {
 }
 
 .span--name {
-    font-size: 16px;
+    font-size: 1rem;
     color: var(--gray10);
 }

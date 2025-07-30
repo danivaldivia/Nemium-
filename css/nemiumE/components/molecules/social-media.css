@@ -8,11 +8,11 @@
 .social-media-img {
     display: flex;
     justify-content: center;
-    margin-top: 16px;
+    margin-top: 1rem;
 }
 
 .social-media-img img {
     margin-inline-end: 16px;
-    width: 24px;
-    height: 24px;
+    width: 1.5rem;
+    height: 1.5rem;
 }

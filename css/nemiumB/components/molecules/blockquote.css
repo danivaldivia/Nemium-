@@ -5,16 +5,16 @@ blockquote {
     font-family: var(--nunito);
     font-weight: 700;
     color: var(--white);
-    margin: 40px 16px 0px 16px;
-    padding: 8px;
-    border-radius: 8px;
+    margin: 2.5rem 1rem 0px 1rem;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
     background-color: #3A3539;
     height: 128px;
 }
 
 blockquote p {
-    margin-bottom: 16px;
-    line-height: 32px;
+    margin-bottom: 1rem;
+    line-height: 2rem;
 }
 
 .span--name::before {

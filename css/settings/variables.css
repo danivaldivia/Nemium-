@@ -1,3 +1,31 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('/fonts/Roboto.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nunito';
+    src: url('/fonts/Nunito.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Rubik';
+    src: url('/fonts/Rubik.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('/fonts/Montserrat.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 :root {
     --black: #000000;
     --gray30: #212121;
@@ -25,8 +53,9 @@
     --bodyE: #232946;
 
     /* font-family*/
-    --roboto: "Roboto", serif;
-    --nunito: "Nunito", serif;
-    --rubik: "Rubik", serif;
-    --montserrat: "Montserrat", serif;
+    --roboto: "Roboto", sans-serif;
+    --nunito: "Nunito", sans-serif;
+    --rubik: "Rubik", sans-serif;
+    --montserrat: "Montserrat", sans-serif;
+
 }

@@ -1,16 +1,16 @@
 blockquote {
     border-left: 4px solid var(--blue10);
     color: var(--black);
-    margin: 40px 16px;
+    margin: 2.5rem 1rem;
     display: flex;
     flex-flow: wrap;
-    padding-left: 16px;
+    padding-left: 1rem;
 }
 
 blockquote p {
     width: 308px;
     text-align: start;
-    line-height: 32px;
+    line-height: 2rem;
     margin: 0;
 }
 
@@ -20,7 +20,7 @@ blockquote p {
 }
 
 .span--name {
-    line-height: 32px;
+    line-height: 2rem;
     display: inline-block;
 
 }

@@ -1,17 +1,17 @@
 .box-model {
-    margin-top: 40px;
+    margin-top: 2.5rem;
     /* background-color: aquamarine; */
 }
 
 .box-model_ol {
-    line-height: 24px;
+    line-height: 1.5rem;
 }
 
 .box-model_ul li {
-    line-height: 24px;
-    margin-bottom: 16px;
+    line-height: 1.5rem;
+    margin-bottom: 1rem;
 }
 
 .box-model_list {
-    padding: 16px;
+    padding: 1rem;
 }

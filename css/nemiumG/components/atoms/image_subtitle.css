@@ -1,0 +1,8 @@
+.image-subtitle {
+    /* background-color: pink; */
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    width: 100%;
+
+}

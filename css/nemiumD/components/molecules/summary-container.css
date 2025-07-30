@@ -1,7 +1,7 @@
 .setup-summary {
     font-weight: 700;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 1.5rem;
     color: var(--black);
 }
 
@@ -9,12 +9,12 @@
     font-weight: 700;
     color: var(--black)80;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 1.5rem;
 }
 
 .summary-container ol {
     color: var(--black);
-    padding-left: 16px;
+    padding-left: 1rem;
 }
 
 .summary-container details {

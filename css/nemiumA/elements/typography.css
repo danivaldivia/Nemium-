@@ -1,12 +1,12 @@
 h1 {
-    font-size: 24px;
-    margin-top: 40px;
-    margin-bottom: 16px;
+    font-size: 1.5rem;
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
 }
 
 
 h2 {
-    font-size: 24px;
+    font-size: 1.5rem;
     /* margin-top: 40px;  */
     margin: 0;
     font-weight: normal;
@@ -15,34 +15,35 @@ h2 {
 
 
 h3 {
-    font-size: 20px;
-    margin-top: 16px;
-    margin-bottom: 16px;
+
+    font-size: 1.25rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
     font-weight: normal;
     padding-bottom: 4px;
     color: var(--gray15);
 }
 
 .title {
-    margin-bottom: 16px;
+    margin-bottom: 1rem;
     color: var(--gray10);
     font-size: 14px;
-    line-height: 24px;
+    line-height: 1.5rem;
 }
 
 hr {
     /* outline: 5px solid red; */
-    margin-top: 40px;
-    margin-bottom: 16px;
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
     width: 100%;
     border: 1px solid var(--gray10);
     display: inline-block;
 }
 
 p {
-    font-size: 16px;
+    font-size: 1rem;
     margin: 0;
-    line-height: 24px;
+    line-height: 1.5rem;
 }
 
 .paragraph--bold {
@@ -72,12 +73,12 @@ nav details summary {
 
 @media screen and (min-width: 1024px) {
     h1 {
-        margin-top: 64px;
-        font-size: 60px;
+        margin-top: 4rem;
+        font-size: 3.75rem;
     }
 
     h2 {
-        font-size: 32px;
+        font-size: 2rem;
     }
 
 }

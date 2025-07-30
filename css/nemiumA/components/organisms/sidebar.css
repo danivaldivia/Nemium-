@@ -2,14 +2,16 @@
     /* background-color: yellow; */
     display: flex;
     flex-direction: column;
-    width: 100%;
-    margin: 16px;
+    width: auto;
+    margin: 1rem;
+
 }
 
 @media screen and (min-width: 1024px) {
     .sidebar {
         /* background-color: red; */
-        width: 188px;
+        /* width: 25%; */
         margin: 64px 24px 0 116px;
+        /* align-items: end; */
     }
 }

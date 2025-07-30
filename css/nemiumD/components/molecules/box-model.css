@@ -1,10 +1,10 @@
 .box-model {
-    margin-top: 40px;
+    margin-top: 2.5rem;
 }
 
 .box-model h2 {
     font-weight: 400;
-    font-size: 24px;
+    font-size: 1.5rem;
     color: var(--black);
 }
 
@@ -12,21 +12,21 @@
     font-weight: 400;
     font-size: 22px;
     color: var(--black);
-    margin-top: 40px;
-    margin-bottom: 16px;
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
 }
 
 .box-model_ol {
-    padding-left: 16px;
-    line-height: 24px;
+    padding-left: 1rem;
+    line-height: 1.5rem;
 }
 
 .box-model_ul {
-    padding-left: 16px;
+    padding-left: 1rem;
 }
 
 .box-model_ul li {
-    margin-block-end: 16px;
+    margin-block-end: 1rem;
 }
 
 .box-model_ul li::marker {

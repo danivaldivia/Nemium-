@@ -1,7 +1,7 @@
 .subtitle {
     counter-increment: titleList;
     display: inline-block;
-    margin-top: 16px;
+    margin-top: 1rem;
     margin-bottom: 0px;
     /* background-color: yellow; */
 }

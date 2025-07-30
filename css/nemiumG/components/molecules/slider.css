@@ -1,0 +1,14 @@
+.slider {
+    /* border: 1px solid brown; */
+    width: auto;
+    margin-bottom: 40px;
+}
+
+
+
+@media screen and (min-width:1024px) {
+    .slider {
+        margin-bottom: 40px;
+    }
+
+}

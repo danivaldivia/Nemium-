@@ -2,9 +2,9 @@
     /* background-color: yellow; */
     color: var(--gray10);
     text-decoration: none;
-    line-height: 24px;
+    line-height: 1.5rem;
     display: inline-block;
-    margin-block-end: 16px;
+    margin-block-end: 1rem;
 }
 
 .summary-link:hover {

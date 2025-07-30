@@ -1,11 +1,11 @@
 .box-model-video {
     /* background-color: red; */
-    margin-top: 24px;
+    margin-top: 1.5rem;
     width: 100%;
 }
 
 .box-model-video h2 {
-    margin-bottom: 16px;
+    margin-bottom: 1rem;
     font-weight: 700;
-    font-size: 20px;
+    font-size: 1.25rem;
 }

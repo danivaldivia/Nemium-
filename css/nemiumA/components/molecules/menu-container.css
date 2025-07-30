@@ -1,8 +1,9 @@
-/* .menu-container{
-    background-color: blue ; 
-} */
+.menu-container {
+    /* background-color: blue; */
+    /* margin-right: 4.2rem; */
 
-.menu-container ul{
-    padding: 0;
 }
 
+.menu-container ul {
+    padding: 0;
+}

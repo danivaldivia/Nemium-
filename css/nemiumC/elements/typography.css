@@ -1,23 +1,23 @@
 h1 {
     font-weight: 400;
-    font-size: 32px;
-    margin-top: 40px;
-    margin-bottom: 16px;
+    font-size: 2rem;
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
 }
 
 
 h3 {
     font-family: var(--roboto);
-    font-size: 20px;
-    margin-top: 16px;
-    margin-bottom: 16px;
+    font-size: 1.25rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
     font-weight: normal;
     color: var(--gray15);
 }
 
 p {
-    line-height: 24px;
-    font-size: 16px;
+    line-height: 1.5rem;
+    font-size: 1rem;
 }
 
 
@@ -32,7 +32,7 @@ p {
     }
 
     hr {
-        width: 966px;
+        width: 100%;
         border: 1px solid rgba(97, 97, 97, 0.2);
         margin-top: 64px;
         margin-bottom: 64px;

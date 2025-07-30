@@ -1,9 +1,9 @@
 .menu-item {
-    padding: 8px;
-    border-radius: 4px;
+    padding: 0.5rem;
+    border-radius: 0.25rem;
     list-style-type: none;
     width: 328px;
-    height: 40px;
+    height: 2.5rem;
     align-content: center;
 }
 

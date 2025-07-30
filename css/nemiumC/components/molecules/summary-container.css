@@ -1,6 +1,6 @@
 .summary-container {
     /* background-color: blueviolet; */
-    line-height: 24px;
+    line-height: 1.5rem;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;

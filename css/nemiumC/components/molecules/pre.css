@@ -1,11 +1,11 @@
 pre {
     background: #E5E5E5;
     color: var(--gray15);
-    border-radius: 8px;
-    padding: 16px;
+    border-radius: 0.5rem;
+    padding: 1rem;
     font-family: "Roboto", serif;
     font-weight: 400;
-    line-height: 24px;
-    font-size: 16px;
+    line-height: 1.5rem;
+    font-size: 1rem;
     white-space: pre-line;
 }

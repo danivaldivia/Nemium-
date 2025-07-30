@@ -1,10 +1,11 @@
 .menu-link {
+    display: inline-block;
     width: 100%;
     color: #B8C1EC;
     text-decoration: none;
     font-family: var(--roboto);
     font-size: 14px;
-    line-height: 24px;
+    line-height: 1.5rem;
     font-weight: 500;
 }
 

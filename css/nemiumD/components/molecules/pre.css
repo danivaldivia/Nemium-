@@ -1,12 +1,12 @@
 pre {
     font-family: var(--rubik);
-    font-size: 16px;
-    line-height: 24px;
+    font-size: 1rem;
+    line-height: 1.5rem;
     white-space: pre-line;
-    padding: 40px;
-    border-radius: 8px;
+    padding: 2.5rem;
+    border-radius: 0.5rem;
     text-align: start;
-    border: 8px solid var(--blue10);
+    border: 0.5rem solid var(--blue10);
     box-shadow: -10px 10px 0px 0px #ABAAF6;
-    margin-bottom: 40px;
+    margin-bottom: 2.5rem;
 }

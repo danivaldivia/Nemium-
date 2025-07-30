@@ -1,9 +1,9 @@
 .slider-bullet {
     background-color: #8E2DE280;
-    width: 16px;
-    height: 16px;
-    border-radius: 8px;
-    margin-inline-end: 8px;
+    width: 1rem;
+    height: 1rem;
+    border-radius: 0.5rem;
+    margin-inline-end: 0.5rem;
 }
 
 .slider-bullet:hover {
