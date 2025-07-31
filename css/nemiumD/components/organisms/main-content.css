@@ -1,12 +1,15 @@
 .main-content {
-    width: 328px;
+    width: 100%;
+    display: flex;
+    margin: 1rem;
+    flex-direction: column;
+    flex-flow: wrap;
 }
 
 @media screen and (min-width: 1024px) {
     .main-content {
-        /* background-color: aquamarine; */
-        width: 903px;
         margin: 64px 24px 0 116px;
+        justify-content: center;
     }
 
 }

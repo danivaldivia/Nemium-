@@ -1,17 +1,13 @@
 .main-wrapper {
-    /* background-color: red; */
     margin: 0;
     height: 100%;
     width: 100%;
-
 }
 
 @media screen and (min-width: 1024px) {
-
     .main-wrapper {
         width: 75%;
         display: grid;
-        grid-template-columns: 35% 65%;
+        grid-template-columns: auto 1fr;
     }
-
 }

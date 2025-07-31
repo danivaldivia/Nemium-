@@ -1,10 +1,6 @@
 .wrapper {
     display: flex;
     margin: 1rem;
-    flex-direction: column;
-    flex-flow: wrap;
-    justify-content: center;
-    /* outline: 10px solid greenyellow; */
 }
 
 @media screen and (min-width: 1024px) {

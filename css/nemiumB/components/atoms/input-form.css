@@ -1,7 +1,6 @@
 /* input form and submit*/
 
 .input-form {
-    /* background-color: yellow; */
     width: 100%;
     box-sizing: border-box;
     background-color: var(--gray30);

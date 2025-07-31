@@ -1,6 +1,13 @@
+.main-content {
+    display: flex;
+    flex-direction: column;
+}
+
+
+
 @media screen and (min-width: 1024px) {
     .main-content {
-        width: 636px;
+        width: 100%;
     }
 
 }

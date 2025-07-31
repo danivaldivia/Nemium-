@@ -1,15 +1,11 @@
 .wrapper {
-    /* outline: 5px solid pink; */
     width: 100%;
     margin: auto;
 }
-
-
 
 
 @media screen and (min-width: 1024px) {
     .wrapper {
         margin-right: 7.25rem;
     }
-
 }

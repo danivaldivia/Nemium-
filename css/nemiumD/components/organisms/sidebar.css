@@ -1,9 +1,8 @@
 .sidebar {
-    /* background-color: yellow; */
     display: flex;
     flex-direction: column;
-    width: 100%;
-    margin: 1rem 1rem 2.5rem 1rem;
+    width: auto;
+    margin: 1rem;
 }
 
 .menu-title {
@@ -19,10 +18,8 @@
 
 @media screen and (min-width: 1024px) {
     .sidebar {
-        /* background-color: red; */
         margin-top: 64px;
         margin-right: 115px;
-        width: 208px;
         order: 1;
     }
 

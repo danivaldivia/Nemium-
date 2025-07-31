@@ -9,16 +9,13 @@
 }
 
 .section-content {
-    /* outline: 8px solid aqua; */
     counter-reset: titleList;
     width: 100%;
 }
 
 .image-subtitle {
-    /* background-color: pink; */
     display: flex;
     flex-direction: column;
     align-items: start;
     width: 100%;
-
 }

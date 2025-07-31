@@ -22,4 +22,9 @@ p {
         margin-top: 0;
     }
 
+    hr {
+        width: 100%;
+    }
+
+
 }

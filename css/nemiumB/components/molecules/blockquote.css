@@ -29,7 +29,6 @@ blockquote p {
 
 @media screen and (min-width: 1024px) {
     blockquote {
-        /* width: 636px; */
         height: 128px;
         padding: 24px;
     }

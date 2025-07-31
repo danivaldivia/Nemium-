@@ -1,11 +1,11 @@
 .sidebar {
     display: flex;
     flex-direction: column;
-    width: 100%;
 }
 
 
 .menu-title {
+    display: inline-block;
     font-family: var(--roboto);
     font-weight: 400;
     font-size: 14px;
@@ -24,5 +24,4 @@
         margin-right: 24px;
         width: auto;
     }
-
 }

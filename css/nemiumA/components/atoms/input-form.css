@@ -1,5 +1,4 @@
 .input-form {
-    /* background-color: yellow; */
     width: 100%;
     box-sizing: border-box;
     border: 0.0625rem solid var(--gray10);
@@ -17,7 +16,7 @@
 
 @media screen and (min-width: 1024px) {
     .input-form {
-        width: 17.5rem;
+        width: 280px;
         margin-right: 1rem;
     }
 

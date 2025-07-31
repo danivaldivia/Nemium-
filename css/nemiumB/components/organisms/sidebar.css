@@ -1,5 +1,4 @@
 .sidebar {
-    /* background-color: yellow; */
     display: flex;
     flex-direction: column;
     width: 100%;
@@ -17,7 +16,6 @@
 
 @media screen and (min-width: 1024px) {
     .sidebar {
-        /* background-color: red; */
         width: 188px;
         margin: 64px 24px 0 116px;
     }

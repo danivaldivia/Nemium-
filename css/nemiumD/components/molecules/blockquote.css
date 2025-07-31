@@ -29,6 +29,7 @@ blockquote p {
     blockquote {
         width: 633px;
         flex-direction: column;
+        align-self: center;
     }
 
     blockquote p {

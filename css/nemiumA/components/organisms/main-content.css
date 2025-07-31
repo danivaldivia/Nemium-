@@ -1,11 +1,6 @@
 .main-content {
-    /* background-color: var(--white); */
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
     margin: 0rem 1rem;
 }
-
-/* @media screen and (min-width:1024px) {
-  
-}  */

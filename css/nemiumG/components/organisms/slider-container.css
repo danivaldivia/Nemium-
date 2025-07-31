@@ -1,8 +1,0 @@
-.slider-container {
-    /* border: 5px solid pink; */
-    block-size: 100%;
-    display: block;
-    overflow: hidden;
-    scroll-behavior: smooth;
-    white-space: nowrap;
-}

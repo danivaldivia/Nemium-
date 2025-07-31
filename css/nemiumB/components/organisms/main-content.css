@@ -1,6 +1,5 @@
 .main-content {
     background-color: var(--gray30);
-    /* background-color: #ffff; */
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;

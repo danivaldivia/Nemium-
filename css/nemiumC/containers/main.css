@@ -5,13 +5,10 @@
     justify-content: center;
     color: var(--gray30);
     margin: 2.5rem 1rem 2.5rem 1rem;
-    /* background-color: red; */
 }
 
 @media screen and (min-width: 1024px) {
     .main {
-        display: flex;
-        flex-wrap: wrap;
         flex-direction: row;
         margin: 80px 196px 80px 200px;
     }

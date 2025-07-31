@@ -1,11 +1,11 @@
 .menu-item {
+    display: flex;
+    align-items: center;
+    width: auto;
     list-style: none;
     border-radius: 0.25rem;
     padding: 0.5rem;
     height: 40px;
-    display: flex;
-    align-items: center;
-    width: auto;
 }
 
 .menu-item:hover {
