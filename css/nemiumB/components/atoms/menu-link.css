@@ -9,3 +9,7 @@
 .menu-link:hover {
     color: var(--white);
 }
+
+.linkB {
+    color: var(--white);
+}

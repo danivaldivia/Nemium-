@@ -14,6 +14,9 @@
     background-color: var(--black);
 }
 
+.nemiumA {
+    background-color: var(--black);
+}
 
 @media screen and (min-width: 1024px) {
     .menu-item {
