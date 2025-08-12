@@ -1,0 +1,16 @@
+:root {
+    --black: #000000;
+    --gray30: #212121;
+    --gray10: #616161;
+    --gray5: #808080;
+
+    --white: #FFFFFF;
+
+
+    /* background */
+    --bodyB: #251F24;
+
+    /* font-family*/
+    --nunito: 'Nunito';
+    --roboto: 'Roboto';
+}

@@ -1,0 +1,20 @@
+:root {
+    --black: #000000;
+
+    --white5: #FFFFFE;
+    --white: #FFFFFF;
+
+
+    --coral: #FF8577;
+    --coral10: #D4939D;
+    --coral5: #EEBBC3;
+
+    --violet: #A259FF;
+
+
+    /* background */
+    --bodyE: #232946;
+
+    /* font-family*/
+    --montserrat: "Montserrat", sans-serif;
+}

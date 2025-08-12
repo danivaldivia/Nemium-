@@ -1,0 +1,15 @@
+:root {
+    --black: #000000;
+    --gray30: #212121;
+    --gray12: #545454;
+    --gray10: #616161;
+
+
+    --white: #FFFFFF;
+
+    --blue10: #5551FF;
+
+    /* font-family*/
+    --rubik: 'Rubik';
+    --roboto: 'Roboto';
+}
